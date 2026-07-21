@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1>Cornbread</h1>
+    <img src = "https://cdn.jwplayer.com/v2/media/NkugMiKa/thumbnails/mSl7Z0QL.jpg?width=1280" alt = "Cornbread image." width = "500" height = "300">
+    <h2>Description</h2>
+    <p>This recipe describes how to make the moistest, most delicious cornbread you can ever imagine.</p>
+    <p>My momma used to make me this cornbread when I was a kid.</p>
+    <h3>Ingredients</h3>
+    <ul>
+        <li>Cornmeal
+        <li>Corn starch
+        <li>Flour
+        <li>Sugar
+        <li>Butter
+        <li>Eggs
+        <li>Optional: Bacon bits!
+    </ul>
+    <h3>Directions</h3>
+    <ol>
+        <li>Mix the wet ingredients.
+        <li>Mix the dry ingredients in another bowl.
+        <li>Mix all the ingredients together.
+        <li>Bake until done. Drizzle with more butter and honey.
+    </ol>
+    <a href = "../index.html">Home</a>
+</body>
+</html>
